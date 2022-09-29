@@ -4,7 +4,7 @@
 
 > Trilha Explorer
 
-Desafio extra do projeto construído do evento Next Level Week da Rocketseat
+Desafio extra do projeto construído no evento Next Level Week da Rocketseat
 
 [🔗 Clique aqui para acessar](https://brunakarina.github.io./nlw-desafio-extra/)
 
